@@ -39,7 +39,7 @@
 ## ✨ Preview
 
 <p align="center">
-  <img src="./assets/readme-preview.png" alt="Preview" width="900">
+  <img src="./assets/preview5.png" alt="Preview" width="900">
 </p>
 
 ---
